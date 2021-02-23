@@ -1,0 +1,17 @@
+name: Fragment
+main: gson.framework.Fragment
+version: 1.0
+author: Gson
+commands:
+  formats:
+    description: Display chat formats.
+  test:
+    description: Test command.
+  help:
+    description: Help information.
+  ping:
+    description: Players ping.
+  nightvision:
+    description: Grants night vision.
+  speed:
+    description: Grants speed.
